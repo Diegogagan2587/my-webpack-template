@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Diegogagan2587/my-webpack-template/issues"
   },
-  "homepage": "https://github.com/Diegogagan2587/my-webpack-template#readme"
+  "homepage": "https://github.com/Diegogagan2587/my-webpack-template#readme",
+  "devDependencies": {
+    "hint": "^7.1.8",
+    "webpack": "^5.85.1",
+    "webpack-cli": "^5.1.3"
+  }
 }
