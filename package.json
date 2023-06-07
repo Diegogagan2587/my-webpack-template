@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --open",
     "build": "webpack"
   },
   "repository": {
@@ -33,7 +34,8 @@
     "stylelint-csstree-validator": "^1.9.0",
     "stylelint-scss": "^3.21.0",
     "webpack": "^5.85.1",
-    "webpack-cli": "^5.1.3"
+    "webpack-cli": "^5.1.3",
+    "webpack-dev-server": "^4.15.0"
   },
   "dependencies": {
     "lodash": "^4.17.21"
