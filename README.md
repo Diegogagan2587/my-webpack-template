@@ -1,5 +1,5 @@
-# my-webpack-template
-This repository is a webpack template.
+# my-Project-template with webpack, license and Readme.
+This repository template
 <a name="readme-top"></a>
 
 <!--
@@ -32,7 +32,7 @@ For more information on the importance of a professional README for your reposit
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="mylogo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
@@ -210,11 +210,11 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Dievo Vidal Lopez**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Diegogagan2587](https://github.com/Diegogagan2587)
+- Twitter: [@dieg02587](https://twitter.com/dieg02587)
+- LinkedIn: [Diego Vidal Lopez](https://www.linkedin.com/in/diego-vidal2587/?locale=en_US)
 
 👤 **Author2**
 
