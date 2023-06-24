@@ -165,13 +165,15 @@ Install this project with:
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+```sh
+  npm run start
+```
+or
 
 ```sh
-  rails server
+  npm start
 ```
---->
+previous command should start running the project on a local server.
 
 ### Run tests
 
