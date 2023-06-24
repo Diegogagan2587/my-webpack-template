@@ -157,15 +157,10 @@ Example commands:
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
   cd my-project
-  gem install
+  npm install
 ```
---->
-
 ### Usage
 
 To run the project, execute the following command:
